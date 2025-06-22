@@ -7,9 +7,9 @@ license-file = "LICENSE"
 description = "A Bevy plugin for 2d mouse interactions"
 keywords = ["mouse", "2d", "gamedev", "bevy"]
 categories = ["game-engines"]
-homepage = "http://github.com/Anshorei/bevy_rei"
-documentation = "http://github.com/Anshorei/bevy_rei"
-repository = "http://github.com/Anshorei/bevy_rei"
+homepage = "https://github.com/Anshorei/bevy_rei"
+documentation = "https://github.com/Anshorei/bevy_rei"
+repository = "https://github.com/Anshorei/bevy_rei"
 readme = "README.md"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
